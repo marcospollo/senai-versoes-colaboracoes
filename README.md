@@ -1,3 +1,4 @@
 # senai-versoes-colaboracoes
 atividade do curso
-ate agora tudo ok na atividade
+
+ate agora tudo ok
